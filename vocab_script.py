@@ -120,7 +120,7 @@ if options['all_words']:
       if sentence: 
         output.write('"{{c1::%s}} (%s) {{c2::%s}}";"\n%s"\n' % (root, pos, definition, sentence))
       else: 
-        output.write('"{{c1::%s}} (%s) {{c2::%s}}"\n' % (root, pos, definition))
+        output.write('"{{c1::%s}} (%s) {{c2::%s}}";\n' % (root, pos, definition))
     else: 
       output.write('%s (%s) %s\n\t%s \n' % (root, pos, definition, sentence))
 

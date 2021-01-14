@@ -1,113 +1,113 @@
 "{{c1::flummoxed}} (adj) {{c2::completely unable to understand: utterly confused or perplexed}}";"
 Then, perforce, his eyes returned to the highway as he headed for I-95 and South Carolina, the most flummoxed driver on the road."
-"{{c1::proselytization}} (v) {{c2::to induce someone to convert to one's faith}}"
+"{{c1::proselytization}} (v) {{c2::to induce someone to convert to one's faith}}";
 "{{c1::aphrodisiac}} (n) {{c2::an agent (such as a food or drug) that arouses or is held to arouse sexual desire}}";"
 a drug that has an anti-aphrodisiac effect"
 "{{c1::parapet}} (n) {{c2::a wall, rampart, or elevation of earth or stone to protect soldiers}}";"
 The invaders fired arrows over the castle's parapet."
-"{{c1::masseuse}} (n) {{c2::a person who practices massage —usually used of a woman}}"
-"{{c1::petulant}} (adj) {{c2::insolent or rude in speech or behavior}}"
-"{{c1::premonition}} (n) {{c2::previous notice or warning: forewarning}}"
+"{{c1::masseuse}} (n) {{c2::a person who practices massage —usually used of a woman}}";
+"{{c1::petulant}} (adj) {{c2::insolent or rude in speech or behavior}}";
+"{{c1::premonition}} (n) {{c2::previous notice or warning: forewarning}}";
 "{{c1::elfin}} (adj) {{c2::of, relating to, or produced by an elf}}";"
 elfin portions"
 "{{c1::geriatric}} (n) {{c2::a branch of medicine that deals with the problems and diseases of old age and the medical care and treatment of aging people}}";"
 An old family member is often the inspiration for medical students who choose geriatrics."
-"{{c1::ebonies}} (n) {{c2::a hard heavy blackish wood yielded by various tropical chiefly southeast Asian trees (genus Diospyros of the family Ebenaceae, the ebony family)}}"
-"{{c1::graft}} (n) {{c2::a grafted plant}}"
+"{{c1::ebonies}} (n) {{c2::a hard heavy blackish wood yielded by various tropical chiefly southeast Asian trees (genus Diospyros of the family Ebenaceae, the ebony family)}}";
+"{{c1::graft}} (n) {{c2::a grafted plant}}";
 "{{c1::crone}} (n) {{c2::a cruel or ugly old woman}}";"
 \u2026 chocolate-colored rock formations that look like giant toadstools, fat old crones, and creatures from a bad dream."
-"{{c1::concubine}} (n) {{c2::a woman with whom a man cohabits without being married: such as}}"
+"{{c1::concubine}} (n) {{c2::a woman with whom a man cohabits without being married: such as}}";
 "{{c1::inoculate}} (v) {{c2::to introduce immunologically active material (such as an antibody or antigen) into especially in order to treat or prevent a disease}}";"
 inoculate children against diphtheria"
 "{{c1::desiccated}} (adj) {{c2::dried up: preserved by drying}}";"
 a desiccated landscape"
 "{{c1::conflagration}} (n) {{c2::fire; especially: a large disastrous fire}}";"
 The conflagration destroyed the warehouses."
-"{{c1::esprit}} (n) {{c2::vivacious cleverness or wit}}"
+"{{c1::esprit}} (n) {{c2::vivacious cleverness or wit}}";
 "{{c1::indelibilities}} (adj) {{c2::that cannot be removed, washed away, or erased}}";"
 an indelible pencil"
 "{{c1::waggish}} (adj) {{c2::resembling or characteristic of a wag}}";"
 a waggish friend"
-"{{c1::espouse}} (v) {{c2::marry}}"
-"{{c1::pauperization}} (v) {{c2::to reduce to poverty}}"
+"{{c1::espouse}} (v) {{c2::marry}}";
+"{{c1::pauperization}} (v) {{c2::to reduce to poverty}}";
 "{{c1::poignant}} (adj) {{c2::painfully affecting the feelings: piercing}}";"
 poignant satire"
-"{{c1::pertinent}} (adj) {{c2::having a clear decisive relevance to the matter in hand}}"
+"{{c1::pertinent}} (adj) {{c2::having a clear decisive relevance to the matter in hand}}";
 "{{c1::leaven}} (v) {{c2::to raise (something, such as bread) with a leaven}}";"
 a sermon leavened with humor"
 "{{c1::effeminate}} (adj) {{c2::having feminine qualities untypical of a man: not manly in appearance or manner}}";"
 effeminate art"
-"{{c1::etiologies}} (n) {{c2::cause, origin; specifically: the cause of a disease or abnormal condition}}"
+"{{c1::etiologies}} (n) {{c2::cause, origin; specifically: the cause of a disease or abnormal condition}}";
 "{{c1::cupidities}} (n) {{c2::inordinate desire for wealth: avarice, greed}}";"
 the cupidity of the bankers"
 "{{c1::panacea}} (n) {{c2::a remedy for all ills or difficulties: cure-all}}";"
 The law will improve the lives of local farmers, but it is no panacea."
-"{{c1::psychogenic}} (adj) {{c2::originating in the mind or in mental or emotional conflict}}"
-"{{c1::neuroses}} (n) {{c2::a mental and emotional disorder that affects only part of the personality, is accompanied by a less distorted perception of reality than in a psychosis, does not result in disturbance of the use of language, and is accompanied by various physical, physiological, and mental disturbances (such as visceral symptoms, anxieties, or phobias)}}"
-"{{c1::stubble}} (n) {{c2::the basal part of herbaceous plants and especially cereal grasses remaining attached to the soil after harvest}}"
-"{{c1::symptomatologic}} (n) {{c2::the symptom complex of a disease}}"
+"{{c1::psychogenic}} (adj) {{c2::originating in the mind or in mental or emotional conflict}}";
+"{{c1::neuroses}} (n) {{c2::a mental and emotional disorder that affects only part of the personality, is accompanied by a less distorted perception of reality than in a psychosis, does not result in disturbance of the use of language, and is accompanied by various physical, physiological, and mental disturbances (such as visceral symptoms, anxieties, or phobias)}}";
+"{{c1::stubble}} (n) {{c2::the basal part of herbaceous plants and especially cereal grasses remaining attached to the soil after harvest}}";
+"{{c1::symptomatologic}} (n) {{c2::the symptom complex of a disease}}";
 "{{c1::hackneyed}} (adj) {{c2::lacking in freshness or originality}}";"
 hackneyed slogans"
 "{{c1::transitorily}} (adj) {{c2::of brief duration: temporary}}";"
 the transitory nature of earthly joy"
-"{{c1::neurotic}} (adj) {{c2::of, relating to, constituting, or affected with neurosis}}"
-"{{c1::instigate}} (v) {{c2::to goad or urge forward: provoke}}"
-"{{c1::tenet}} (n) {{c2::a principle, belief, or doctrine generally held to be true; especially: one held in common by members of an organization, movement, or profession}}"
-"{{c1::vacillate}} (v) {{c2::to waver in mind, will, or feeling: hesitate in choice of opinions or courses}}"
+"{{c1::neurotic}} (adj) {{c2::of, relating to, constituting, or affected with neurosis}}";
+"{{c1::instigate}} (v) {{c2::to goad or urge forward: provoke}}";
+"{{c1::tenet}} (n) {{c2::a principle, belief, or doctrine generally held to be true; especially: one held in common by members of an organization, movement, or profession}}";
+"{{c1::vacillate}} (v) {{c2::to waver in mind, will, or feeling: hesitate in choice of opinions or courses}}";
 "{{c1::licentious}} (adj) {{c2::lacking legal or moral restraints; especially: disregarding sexual restraints}}";"
 licentious behavior"
 "{{c1::sanctified}} (v) {{c2::to set apart to a sacred purpose or to religious use: consecrate}}";"
 observe the day of the sabbath, to sanctify it"
 "{{c1::buttress}} (n) {{c2::a projecting structure of masonry or wood for supporting or giving stability to a wall or building}}";"
 a buttress of the cause of peace"
-"{{c1::caisson}} (n) {{c2::a chest to hold ammunition}}"
-"{{c1::epiphenomena}} (n) {{c2::a secondary phenomenon accompanying another and caused by it; specifically: a secondary mental phenomenon that is caused by and accompanies a physical phenomenon but has no causal influence itself}}"
+"{{c1::caisson}} (n) {{c2::a chest to hold ammunition}}";
+"{{c1::epiphenomena}} (n) {{c2::a secondary phenomenon accompanying another and caused by it; specifically: a secondary mental phenomenon that is caused by and accompanies a physical phenomenon but has no causal influence itself}}";
 "{{c1::embed}} (v) {{c2::to enclose closely in or as if in a matrix}}";"
 fossils embedded in stone"
-"{{c1::fetter}} (v) {{c2::to put fetters on: shackle}}"
-"{{c1::ophthalmologist}} (n) {{c2::a physician who specializes in ophthalmology}}"
+"{{c1::fetter}} (v) {{c2::to put fetters on: shackle}}";
+"{{c1::ophthalmologist}} (n) {{c2::a physician who specializes in ophthalmology}}";
 "{{c1::decrepit}} (adj) {{c2::wasted and weakened by or as if by the infirmities of old age}}";"
 a decrepit old man"
-"{{c1::privation}} (n) {{c2::an act or instance of depriving: deprivation}}"
-"{{c1::precept}} (n) {{c2::a command or principle intended especially as a general rule of action}}"
-"{{c1::vegetate}} (v) {{c2::to lead a passive existence without exertion of body or mind}}"
-"{{c1::seance}} (n) {{c2::session, sitting}}"
-"{{c1::girder}} (n) {{c2::a horizontal main structural member (as in a building or bridge) that supports vertical loads and that consists of a single piece or of more than one piece bound together}}"
-"{{c1::typhus}} (n) {{c2::any of various bacterial diseases caused by rickettsias: such as}}"
+"{{c1::privation}} (n) {{c2::an act or instance of depriving: deprivation}}";
+"{{c1::precept}} (n) {{c2::a command or principle intended especially as a general rule of action}}";
+"{{c1::vegetate}} (v) {{c2::to lead a passive existence without exertion of body or mind}}";
+"{{c1::seance}} (n) {{c2::session, sitting}}";
+"{{c1::girder}} (n) {{c2::a horizontal main structural member (as in a building or bridge) that supports vertical loads and that consists of a single piece or of more than one piece bound together}}";
+"{{c1::typhus}} (n) {{c2::any of various bacterial diseases caused by rickettsias: such as}}";
 "{{c1::moribund}} (adj) {{c2::being in the state of dying: approaching death}}";"
 in the moribund patient deepening stupor and coma are the usual preludes to death"
 "{{c1::sanatoria}} (n) {{c2::an establishment or facility offering usually long-term medical care or treatment: such as}}";"
 I contracted pulmonary tuberculosis and found myself flat on my back in a sanatorium in the Adirondack Mountains \u2026"
-"{{c1::incorrigibilities}} (adj) {{c2::incapable of being corrected or amended: such as}}"
+"{{c1::incorrigibilities}} (adj) {{c2::incapable of being corrected or amended: such as}}";
 "{{c1::gangrene}} (n) {{c2::local death of soft tissues due to loss of blood supply}}";"
 moral gangrene"
-"{{c1::perversion}} (n) {{c2::the action of perverting: the condition of being perverted}}"
+"{{c1::perversion}} (n) {{c2::the action of perverting: the condition of being perverted}}";
 "{{c1::emaciated}} (adj) {{c2::very thin and feeble especially from lack of nutrition or illness}}";"
 He was deadly pale and terribly emaciated, with the protruding, brilliant eyes of a man whose spirit was greater than his strength."
-"{{c1::vestige}} (n) {{c2::a trace, mark, or visible sign left by something (such as an ancient city or a condition or practice) vanished or lost}}"
-"{{c1::tussle}} (n) {{c2::a physical contest or struggle: scuffle}}"
-"{{c1::suppurate}} (v) {{c2::to form or discharge pus}}"
-"{{c1::pilfer}} (v) {{c2::steal; especially: to steal stealthily in small amounts and often again and again}}"
+"{{c1::vestige}} (n) {{c2::a trace, mark, or visible sign left by something (such as an ancient city or a condition or practice) vanished or lost}}";
+"{{c1::tussle}} (n) {{c2::a physical contest or struggle: scuffle}}";
+"{{c1::suppurate}} (v) {{c2::to form or discharge pus}}";
+"{{c1::pilfer}} (v) {{c2::steal; especially: to steal stealthily in small amounts and often again and again}}";
 "{{c1::subcutaneous}} (adj) {{c2::being, living, occurring, or administered under the skin}}";"
 subcutaneous parasites"
-"{{c1::truss}} (v) {{c2::to secure tightly: bind}}"
+"{{c1::truss}} (v) {{c2::to secure tightly: bind}}";
 "{{c1::billet}} (v) {{c2::to assign lodging to (someone, such as a soldier) by or as if by a billet}}";"
 billet a householder"
-"{{c1::chilblain}} (n) {{c2::an inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold}}"
-"{{c1::piteous}} (adj) {{c2::of a kind to move to pity or compassion}}"
-"{{c1::delouse}} (v) {{c2::to remove lice from}}"
-"{{c1::dropsy}} (n) {{c2::an abnormal infiltration and excess accumulation of serous fluid in connective tissue or in a serous cavity —called also dropsy}}"
+"{{c1::chilblain}} (n) {{c2::an inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold}}";
+"{{c1::piteous}} (adj) {{c2::of a kind to move to pity or compassion}}";
+"{{c1::delouse}} (v) {{c2::to remove lice from}}";
+"{{c1::dropsy}} (n) {{c2::an abnormal infiltration and excess accumulation of serous fluid in connective tissue or in a serous cavity —called also dropsy}}";
 "{{c1::furtive}} (adj) {{c2::done in a quiet and secretive way to avoid being noticed: surreptitious}}";"
 a furtive glance"
-"{{c1::cabaret}} (n) {{c2::a shop selling wines and liquors}}"
+"{{c1::cabaret}} (n) {{c2::a shop selling wines and liquors}}";
 "{{c1::congenital}} (adj) {{c2::existing at or dating from birth}}";"
 congenital deafness"
 "{{c1::shunt}} (v) {{c2::to turn off to one side: shift}}";"
 was shunted aside"
 "{{c1::perdition}} (n) {{c2::eternal damnation}}";"
 It's this kind of selfishness that leads down the road/path to perdition."
-"{{c1::respite}} (n) {{c2::a period of temporary delay}}"
-"{{c1::congregational}} (adj) {{c2::of or relating to a congregation}}"
+"{{c1::respite}} (n) {{c2::a period of temporary delay}}";
+"{{c1::congregational}} (adj) {{c2::of or relating to a congregation}}";
 "{{c1::poignant}} (adj) {{c2::painfully affecting the feelings: piercing}}";"
 poignant satire"
-"{{c1::travail}} (v) {{c2::to labor hard: toil}}"
+"{{c1::travail}} (v) {{c2::to labor hard: toil}}";
